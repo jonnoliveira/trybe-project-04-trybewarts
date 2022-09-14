@@ -41,3 +41,9 @@ main {
 .subject {
   border: 1px solid red;
 }
+
+#label-rate {
+  font-size: 16px;
+  display: flex;
+  justify-content: space-between;
+}
