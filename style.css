@@ -19,7 +19,6 @@ main {
 }
 
 #evaluation-form {
-  border: solid black 1px;
   display: flex;
   width: 675px;
   flex-direction: column;
