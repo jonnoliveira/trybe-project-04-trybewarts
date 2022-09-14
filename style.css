@@ -14,15 +14,12 @@
   display: flex;
 }
 
-form input , button {
-  align-self: center;
-}
-
 main {
   display: flex;
 }
 
 #evaluation-form {
+  border: solid black 1px;
   display: flex;
   flex-direction: column;
   width: 675px;
