@@ -86,7 +86,7 @@ Neste projeto devemos desenvolver um formulário que retorne o feedback do usuá
 
 ## 100% :heavy_check_mark:
 
-![Project-tRYBEWARTS-Grade]()
+![Project-tRYBEWARTS-Grade](https://github.com/jonnoliveira/trybe-project-04-trybewarts/blob/main/images/trybewarts-grade.png)
 
 </details> 
  
