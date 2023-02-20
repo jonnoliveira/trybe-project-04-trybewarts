@@ -12,7 +12,7 @@
   
 </summary>
 
-Neste projeto devemos desenvolver um formulário que retorne o feedback do usuário. Este foi o primeiro projeto em duplas simulando, basicamente, como o desenvolvimento de uma aplicação pode funcionar dentro de uma empresa e como as soft skills são vitais nas relações interpessoais. Usamos HTML, CSS e JavaScript para as implementações. Veja mais abaixo!
+Neste projeto desenvolvemos um formulário que retorna o feedback do usuário. Este foi o primeiro projeto em duplas simulando, basicamente, como o desenvolvimento de uma aplicação pode funcionar dentro de uma empresa e como as soft skills são vitais nas relações interpessoais. Usamos HTML, CSS e JavaScript para as implementações. Veja mais abaixo!
   
 </details>
 
