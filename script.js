@@ -6,7 +6,7 @@ const btnSend = document.getElementById('submit-btn');
 const agreeCheck = document.getElementById('agreement');
 const textArea = document.getElementById('textarea');
 const resultCount = document.getElementById('counter');
-const evalForms = document.getElementById('evaluation-form');
+const evalForms = document.getElementById('container-form');
 
 //
 const formData = document.getElementById('form-data');

@@ -1,58 +1,151 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 .header {
+  background-color: black;
+  color: white;
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+}
+
+.logo-title {
+  display: flex;
+  width: 100%;
   align-items: center;
-  background-color: rgb(50, 167, 145);
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
 }
 
 .trybewarts-login {
   display: flex;
+  flex-direction: column;
+  padding: 10px;
 }
 
-main {
-  display: flex;
+#email, #password {
+  height: 25px;
+  margin: 5px 0 5px ;
 }
 
-#evaluation-form {
+#email::placeholder, #password::placeholder {
+  padding-left: 10px;
+}
+
+
+.trybewarts-header-logo {
+  width: 20vw;
+}
+
+#container-form {
   display: flex;
-  width: 675px;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.evaluation-form {
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.849);
+}
+
+.fieldset {
+  border: 1px solid rgba(0, 0, 0, 0.568);
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+#input-name, #input-lastname, #input-email, #house {
+  width: 90%;
+  padding: 5px;
+  margin: 5px;
+}
+
+.fieldset-family {
+  border: 1px solid rgba(0, 0, 0, 0.568);
+  display: flex;
+  padding: 10px;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+
+.fieldset-checkbox {
+  border: 1px solid rgba(0, 0, 0, 0.568);
+  padding: 10px;
+  margin-bottom: 10px;
+  display: flex;
   flex-direction: column;
 }
 
-#trybewarts-forms-logo {
-  height: 500px;
+.fieldset-checkbox input {
+  margin-right: 5px;
 }
 
-#inputs-radio {
-  display: flex;
-  flex-direction: column;
-}
-
-#label-content {
-  display: flex;
-  flex-direction: column;
-}
-
-.subject {
-  border: 1px solid red;
-}
-
-#label-rate {
-  font-size: 16px;
+.fieldset-rate {
+  border: 1px solid rgba(0, 0, 0, 0.568);
+  padding: 10px;
+  margin-bottom: 10px;
   display: flex;
   justify-content: space-between;
 }
 
-#container-textarea {
+#container-agreement {
+  padding: 5px;
   display: flex;
-  flex-direction: column;
+}
+
+#label-infos {
+  font-size: 12px;
+}
+
+#trybewarts-forms-logo {
+  width: 300px;
+  position: absolute;
+  top: 40vh;
+  left: 3vw;
+  z-index: -1;
+}
+
+#submit-btn {
+  width: 100%;
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 5px;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 2px;
+  margin-top: 20px;
+}
+
+#submit-btn:disabled{
+  background-color: rgba(0, 0, 0, 0.199);
 }
 
 #form-data {
+  min-height: 60vh;
   display: none;
+  background-color: rgba(255, 255, 255, 0.849);
+}
+
+.data {
+  padding: 10px;
+}
+
+.footer {
+  color: white;
+  background-color: black;
+  height: 7vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  font-size: 12px;
+  font-style: italic;
 }
