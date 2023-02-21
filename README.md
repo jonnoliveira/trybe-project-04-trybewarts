@@ -2,7 +2,6 @@
 
 ## Esse projeto pertence ao módulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/) :green_heart:
 
-## :construction: CSS em aprimoramento :construction:
  
 <details>
  
@@ -86,7 +85,7 @@ Neste projeto desenvolvemos um formulário que retorna o feedback do usuário. E
 
 ## 100% :heavy_check_mark:
 
-![Project-tRYBEWARTS-Grade](https://github.com/jonnoliveira/trybe-project-04-trybewarts/blob/main/images/trybewarts-grade.png)
+![Project-Trybewarts-Grade](https://github.com/jonnoliveira/trybe-project-04-trybewarts/blob/main/images/trybewarts-grade.png)
 
 </details> 
  
@@ -100,5 +99,7 @@ Neste projeto desenvolvemos um formulário que retorna o feedback do usuário. E
 
 </summary>
 
+![Project-Trybewarts-Grade-1](https://github.com/jonnoliveira/trybe-project-04-trybewarts/blob/main/images/trybewarts-preview-1.png)
+![Project-Trybewarts-Grade-2](https://github.com/jonnoliveira/trybe-project-04-trybewarts/blob/main/images/trybewarts-preview-2.png)
   
 </details>
