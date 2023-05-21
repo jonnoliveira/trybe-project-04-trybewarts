@@ -35,51 +35,51 @@ Neste projeto desenvolvemos um formulário que retorna o feedback do usuário. E
 
 </summary>
 
-### I. Crie uma barra verde na parte superior da página.
+* I. Crie uma barra verde na parte superior da página.
 
-### II. Adicione o logotipo da Trybewarts.
+* II. Adicione o logotipo da Trybewarts.
 
-### III. Acrescente um formulário de login no header.
+* III. Acrescente um formulário de login no header.
 
-### IV. crie um título com o texto "Trybewarts" centralizado dentro do Header.
+* IV. crie um título com o texto "Trybewarts" centralizado dentro do Header.
 
-### V. Adicione um formulário no corpo da página.
+* V. Adicione um formulário no corpo da página.
 
-### VI. Faça com que a direção do formulário seja vertical.
+* VI. Faça com que a direção do formulário seja vertical.
 
-### VII. Adicione a logo da Trybewarts ao lado direito da página.
+* VII. Adicione a logo da Trybewarts ao lado direito da página.
 
-### VIII. Acrescente inputs de nome, sobrenome e email ao formulário.
+* VIII. Acrescente inputs de nome, sobrenome e email ao formulário.
 
-### IX. Acrescente um select ao formulário.
+* IX. Acrescente um select ao formulário.
 
-### X. Posicione os campos de Nome e Sobrenome lado a lado.
+* X. Posicione os campos de Nome e Sobrenome lado a lado.
 
-### XI. Posicione os campos de Email e Casa lado a lado.
+* XI. Posicione os campos de Email e Casa lado a lado.
 
-### XII. Adicione 3 inputs do tipo radio ao formulário.
+* XII. Adicione 3 inputs do tipo radio ao formulário.
 
-### XIII. Crie inputs do tipo checkbox.
+* XIII. Crie inputs do tipo checkbox.
 
-### XIV. Crie um campo de avaliação.
+* XIV. Crie um campo de avaliação.
 
-### XV. Crie uma textarea.
+* XV. Crie uma textarea.
 
-### XVI. Crie uma checkbox que servirá para validar as informações digitadas pela pessoa usuária.
+* XVI. Crie uma checkbox que servirá para validar as informações digitadas pela pessoa usuária.
 
-### XVII. Crie um botão de "Enviar" para submeter o formulário.
+* XVII. Crie um botão de "Enviar" para submeter o formulário.
 
-### XVIII. Habilite o botão "Enviar" após a validação do checkbox.
+* XVIII. Habilite o botão "Enviar" após a validação do checkbox.
 
-### XIV. Crie um rodapé ao final da página.
+* XIV. Crie um rodapé ao final da página.
 
 ---
  
 ## Requisitos Bônus
 
-### XX. Crie um contador de caracteres.
+* XX. Crie um contador de caracteres.
 
-### XXI. Substitua o formulário pelas informações da pessoa estudante.
+* XXI. Substitua o formulário pelas informações da pessoa estudante.
 
 </details>
 
